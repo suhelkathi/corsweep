@@ -98,5 +98,5 @@ bounty program. That's it. Getting a CORS finding is cool. A legal notice is not
 
 <p align="center">
   Built by <a href="https://github.com/suhelkathi">@suhelkathi</a> ·
-  if this saved you time, smash that ⭐ — it's free and it feeds my ego
+  if this saved you time, smash that ⭐ 
 </p>

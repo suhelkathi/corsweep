@@ -76,7 +76,7 @@ python3 corsweep.py -u https://target -k --proxy http://127.0.0.1:8080
 
 ---
 
-## Confirm it by hand (always confirm, kids)
+## Confirm it by hand
 
 ```bash
 curl -s -I https://api.target.com/me \
@@ -89,16 +89,7 @@ finding. 📸
 
 ---
 
-## Roadmap
-
-- [x] CORS scanner that doesn't lie to you
-- [ ] Host header injection module (same accuracy energy)
-- [ ] OAuth `redirect_uri` checker
-- [ ] Maybe a cross-site WebSocket hijacking module if you all star this enough 👀
-
----
-
-## ⚠️ Don't be dumb
+## ⚠️ Disclaimer
 
 Only run this on stuff you're **allowed** to test. A signed scope or a bug
 bounty program. That's it. Getting a CORS finding is cool. A legal notice is not.

@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/license-MIT-green.svg">
   <img src="https://img.shields.io/badge/false%20positives-almost%20none-success">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
-  <img src="https://img.shields.io/badge/made%20with-☕%20+%20Frida-orange">
+  <img src="https://img.shields.io/badge/made%20with-Python%20+%20httpx-orange">
 </p>
 
 <p align="center">

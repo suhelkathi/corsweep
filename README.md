@@ -2,15 +2,7 @@
 
 <p align="center">
   <b>A CORS misconfig scanner that doesn't cry wolf.</b><br>
-  <i>Halal money earn bro — one Access-Control-Allow-Origin at a time.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3.8+-blue.svg">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg">
-  <img src="https://img.shields.io/badge/false%20positives-almost%20none-success">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
-  <img src="https://img.shields.io/badge/made%20with-Python%20+%20httpx-orange">
+  <i>Only fires when a bug is actually exploitable.</i>
 </p>
 
 <p align="center">

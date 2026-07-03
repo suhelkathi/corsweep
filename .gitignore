@@ -1,0 +1,17 @@
+# python junk
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# tool output
+*.json
+*.csv
+!hosts.txt.sample
+
+# editor / os
+.vscode/
+.idea/
+.DS_Store
+*.swp
